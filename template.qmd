@@ -1,5 +1,5 @@
 ---
-title: "Open Data in Stuttgart"
+title: "title"
 format: beamer
 editor: source
 bibliography: ./ads/quellen.bibtex
