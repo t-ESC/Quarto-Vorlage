@@ -21,3 +21,7 @@
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+*.html
+*.css
+*.woff
+*.js
