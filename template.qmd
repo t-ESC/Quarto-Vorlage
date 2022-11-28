@@ -1,0 +1,14 @@
+---
+title: "Open Data in Stuttgart"
+format: beamer
+editor: source
+bibliography: ./ads/quellen.bibtex
+cite-method: biblatex
+allowframebreaks: TRUE
+---
+{{< include /content/_content.qmd >}}
+
+# Refrences
+
+::: {#refs}
+:::
