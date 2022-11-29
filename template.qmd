@@ -6,9 +6,7 @@ format:
         bibliography: ads/quellen.bibtex
         cite-method: biblatex
 editor: source
-
 allowframebreaks: TRUE
-   
 ---
 {{< include /content/_content.qmd >}}
 
