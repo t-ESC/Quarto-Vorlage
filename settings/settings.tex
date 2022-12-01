@@ -1,7 +1,11 @@
+%Footer
 \setbeamertemplate{footline}{
-  \hbox{
-    \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
-        \usebeamerfont{author in head/foot}\inserttitle\hfill\insertshortauthor\hfill\insertpagenumber
-    \end{beamercolorbox}
-    }
+  \ifnum \theframenumber=1
+  \else
+    \hbox{
+      \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
+          \usebeamerfont{author in head/foot}\inserttitle\hfill\insertshortauthor\hfill\insertpagenumber
+      \end{beamercolorbox}
+      }
+  \fi
 }
