@@ -1,4 +1,6 @@
-## Open Data
+# Open Data
+
+## Open Data Definition
 
 -   "Open means anyone can freely access, use, modify, and share \[data\] for any purpose (subject, at most, to requirements that preserve provenance and openness)." [@OpenKnowledgeOpenDefinitionGroup2022Feb]
 
@@ -32,19 +34,33 @@
 -   ggf. bessere Lösungen für diese Probleme
 -   ggf. Vermeidung einer "doppelten" Lösung
 
-## Open Data in Berlin
+# Open Data in Berlin
+
+## Nutzerzahlen von Open Data in Berlin
 
 -   Berlin stellt öffentliche Daten auf [@BibEntry2022Nov] bereit
+
 -   Ziel sei, offene Daten lesbar für Menschen und Maschinen zu machen
+
 -   beliebteste Datensätze häufiger als 10000-mal gesehen (vgl. @fig-visits)
 
 ![Visits und Page Impressions](images/Visits and Page Impressions.png){#fig-visits width=75%}
 
-## Page Impressions vs. Visits
+## Definition Page Impressions und Visits
 
 -   Page Impression (Page View): Besuch eines einzelnen Nutzers auf einer einzelnen Website (vgl. [@schumacher2019method], [@burby2007web])
+
 -   Visits/ Sessions: Interaktion einer Einzelperson mit einer Website mit einer oder mehreren Anfragen (Page Impressions) (vgl. [@burby2007web])
--   Der Besuch eines Nutzers einer Website ist ein Visit und alle folgenden Interaktionen des Nutzers auf dieser Website sind Page Impressions
--   Hier: Ein Visit ist der Aufruf eines Datensatzes auf [@BibEntry2022Nov]. Die Page Impressions dieser Datensätze sind sowohl die Aufrufe des Datensatzes sowie die weiteren Interaktionen auf dieser Website. Ein Download eines Datensatz erzeugt somit zwei Page Impressions von denen eine der Aufruf und der die zweite der Download des Datensatzes darstellt.
+
+
+## Bedeutung von Page Impressions und Visits
+
+-   Visit = Aufruf eines Datensatzes
+
+-   Page Impressions = Aufrufe und weitere Interaktionen auf Website
+
+-   Einzige Interaktionsmöglichkeit auf Datensatz-Seite ist Download (vgl. [@BibEntry2022Nov])
+
+-   Differenz zwischen Page Impressions und Visits sind Downloadzahlen der Datensätze
 
 ## Open Data in Stuttgart
