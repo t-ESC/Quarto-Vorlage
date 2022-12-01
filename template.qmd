@@ -1,5 +1,8 @@
 ---
 format: beamer
+title: Titel
+subtitle: Untertitel
+author: Theo Krinitz
 include-in-header: settings/settings.tex
 metadata-files: 
   - settings/metadate.yaml
