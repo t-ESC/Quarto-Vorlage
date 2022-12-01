@@ -1,14 +1,11 @@
 ---
-title: "title"
-format: 
-    beamer:
-        <> logo: images/dhbw-logo.png
-        bibliography: ads/quellen.bibtex
-        cite-method: biblatex
-editor: source
-allowframebreaks: TRUE
+format: beamer
+include-in-header: settings/settings.tex
+metadata-files: 
+  - settings/metadate.yaml
 ---
-{{< include /content/_content.qmd >}}
+
+{{< include content/_content.qmd >}}
 
 # Refrences
 ::: {#refs}
