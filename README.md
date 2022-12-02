@@ -19,3 +19,4 @@ Quarto® is an open-source scientific and technical publishing system built on P
 # Building PDF files
 -   might be nessesary to run `package.install("rmarkdown")` in R
 -   run `quarto install tinytex` to build .pdf files
+-   build the `template.qmd` file
