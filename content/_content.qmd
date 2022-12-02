@@ -1,1 +1,101 @@
-## Test
+## Autonomie eines Fahrzeugs
+
+-   "Autonomie" in der Ethik:
+    -   Mensch kann selbstständige Entscheidungen teffen.
+    -   Mensch sollte freistehen, eigene vernünftige Regeln zu setzen.
+    -   grieschisch: "autos" = selbst + "nomos" = Gesetz
+
+-   nicht zutreffend auf Fahrzeuge
+
+-   bessere Begriffe: "hoch automatisiertes Fahrzeug" oder "vollautomatisiertes Fahrzeug"
+
+[@Bartneck2019-bi, S. 125]
+
+## Stufen der Automatisierung
+
+-   Ebene 0: Keine Fahrautomatisierung
+
+-   Ebene 1: Fahrerassistenz
+    -   Bsp.: ABS
+
+-   Ebene 2: Teilautomatisierung
+    -   Brems-, Beschleunigungs- und Spurwechselfunktionen
+    -   Kontrolle durch Fahrer
+
+[@BibEntry2022Dec]  [@Bartneck2019-bi, S. 126-127]
+
+## Stufen der Automatisierung
+
+-   Ebene 3: Hochautomatisierung
+    -   keine dauerhafte Überwachung durch Fahrer notwendig
+
+-   Ebene 4: Vollautomatisierung
+    -   Unter Standartbedingungen alle Fahrfunktionen automatisiert
+    -   keine Kontrollübernahme durch den Fahrer
+
+-   Ebene 5: autonomes Fahren
+    -   kein Fahrer notwendig
+
+[@BibEntry2022Dec]  [@Bartneck2019-bi, S. 126-127]
+
+## Stufen der Automatisierung
+![Stufen der Automatisierung [@BibEntry2022Dec]](images/BFU_Fahrassistenten_Automatisierung_DE.jpg)
+
+##  aktuelle Situation
+
+-   erste vollständig autonome Taxis in Kalifornien [@JamieLLareau2022Jun]
+-   Test autonomer Taxis in Singaur seit 2016 [@pcmagautotaxis]
+-   ähnliche Tests von weiteren Fahrdiensten (Uber) [@deSouzaSoares2016Sep]
+
+## Ethische Vorteile autonomer Fahrzeuge
+
+![Fehlverhalten der Fahrer bei Unfällen mit Personenschaden im Straßenverkehr [@StatistischesBundesamt]](images/verkehrsunfaelle-fehlverhalten.png)
+
+## Unfälle "autonomer" Fahrzeuge
+
+-   Unfall im März 2018 zwischen selbstfahrenden Fahrzeug und 49-jähriger Frau in Tempe (Arizona)
+    -   49-jährige in Dunkelheit vom Wagen getroffen
+    -   Frau schob Fahrrad ausßerhalb des Fußweges
+    -   wurde ins Krankenhaus gebracht, erlag dort jedoch ihren Verletzungen
+-   Fahrzeug wäre nur Ebene 2 gewesen, d.h. Fahrerin hätte eingreifen müssen.
+
+-   ähnliche Vorfälle relativ regelmäßig in den letzten Jahren
+-   Laut Entwicklern 90% menschliches Versagen  [@Janczura2022Sep]
+
+-   ungünstige Benennung des assistierten Fahrmoduses konkret bei Tesla: Autopilot [@teslaAutopilot]
+
+## Ethik Richtlinien für autonome Fahrzeuge
+
+-   Juni 2016 Einberufung einer Ethik-Kommision zum Thema "Automatisiertes und Vernetztes Fahren"
+
+-   14 Mitglieder, darunter Professoren für Recht, Ethik und Technik sowie Vertreter der Automobilindustrie und Verbraucherorganisationen
+
+-   Vorlage von 20 ethischen Leitlinen für autonome Fahrzeuge
+
+[@Ethik-Kommission]
+
+-   Kritiker warnten:
+    -   Verzerrung der momentanen Daten aufgrund idealer Fahrbedingungen
+    -   Verhalten kann sich von menschlichen Normen im Straßenverkehr unterscheiden
+    -   erhöhtes Risiko aufgrund von gemischtem Verkehr
+    [@Bartneck2019-bi, S. 131]
+
+## Ethische Probleme autonomer Fahrzeuge
+
+-   Verantwortung und Haftung
+
+-   Unvermeidbare Unfälle (Entscheidung des Fahrzeugs)
+
+-   Fragen der Privatsphäre
+
+-   Sicherheit
+
+-   Angemessene Gestaltung der Mensch-Maschine-Schnittstelle
+
+-   Machinelles Lernen (ML)
+
+-   Manuelle Übernahme der Steuerung
+
+-   Mögliche ethische Fragen zukünftiger Szenarian (Marktmacht)
+
+[@Bartneck2019-bi, S. 132-138]
