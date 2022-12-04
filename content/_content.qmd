@@ -8,32 +8,6 @@
 
 -   meist im Zusammenhang mit Behördendaten
 
-# Warum Open Data?
-
-## Das formale Argument
-
--   "Jeder hat \[...\] Anspruch auf Zugang zu amtlichen Informationen." [@Gesetz]
-
--   Datenerhebung oftmals mit Steuermitteln finanziert
-
-## Das demokratische Argument
-
--   erhobene Amtsdaten bieten Grundlage für eine pluralistische Meinungsbildung
-
--   bürgerliche Partizipation am politischen Prozess
-
--   politische Willensbildung in offener Demokratie auf Grundlage der Öffentlichkeit (vgl. [@Hasebrink2021Dec])
-
--   Transparenz der politischen und Verwaltungsentscheidungen
-
--   erhöhtes Pflichtbewusstsein der Amtsträger
-
-## Das ökonomische Argument
-
--   freier Zugriff auf öffentliche Daten beschleunigt Reaktion auf Probleme
--   ggf. bessere Lösungen für diese Probleme
--   ggf. Vermeidung einer "doppelten" Lösung
-
 # Open Data in Berlin
 
 ## Nutzerzahlen von Open Data in Berlin
@@ -41,6 +15,8 @@
 -   Berlin stellt öffentliche Daten auf [@BibEntry2022Nov] bereit
 
 -   Ziel sei, offene Daten lesbar für Menschen und Maschinen zu machen
+
+## Nutzerzahlen von Open Data in Berlin
 
 -   beliebteste Datensätze häufiger als 10000-mal gesehen (vgl. @fig-visits)
 
@@ -59,8 +35,58 @@
 
 -   Page Impressions = Aufrufe und weitere Interaktionen auf Website
 
--   Einzige Interaktionsmöglichkeit auf Datensatz-Seite ist Download (vgl. [@BibEntry2022Nov])
+-   Interaktionsmöglichkeiten auf Datensatz-Seite sind der Download und eine Kommentarmöglichkeit (vgl. [@BibEntry2022Nov])
 
--   Differenz zwischen Page Impressions und Visits sind Downloadzahlen der Datensätze
+-   Differenz zwischen Page Impressions und Visits sind Interaktionenzahlen mit den Datensätze
 
-## Open Data in Stuttgart
+## Menge an Datensätzen über Zeit
+
+-   Regelmäßig neue Datensätze hochgeladen (vgl. @fig-nofds)
+
+![Number of Datesets](images/numberofdatasets.png){#fig-nofds width=85%}
+
+# Open Data in Stuttgart
+
+## Momentane Situation
+
+-   kein eigenes Portal für die Stadt Stuttgart analog zu Berlin
+
+-   Thema seit 2013 (-> damals nicht vom Gemeinderat geprüft [@2013OpenData])
+
+-   Ehrenamtlicher Verein "OK Lab Stuttgart"
+    -   Setzt sich für offene Daten in und um Stuttgart ein
+    -   Ziel: eine Verbesserung der Transparenz von Staat und Verwaltungen [@OKLabStuttgart], [@OKLabStuttgartGit] 
+
+## Warum Open Data? Das formale Argument
+
+-   "Jeder hat \[...\] Anspruch auf Zugang zu amtlichen Informationen." [@Gesetz]
+
+-   Datenerhebung oftmals mit Steuermitteln finanziert
+
+## Warum Open Data? Das demokratische Argument
+
+-   erhobene Amtsdaten bieten Grundlage für eine pluralistische Meinungsbildung
+
+-   bürgerliche Partizipation am politischen Prozess
+
+-   politische Willensbildung in offener Demokratie auf Grundlage der Öffentlichkeit (vgl. [@Hasebrink2021Dec])
+
+-   Transparenz der politischen und Verwaltungsentscheidungen
+
+-   erhöhtes Pflichtbewusstsein der Amtsträger
+
+## Warum Open Data? Das ökonomische Argument
+
+-   freier Zugriff auf öffentliche Daten beschleunigt Reaktion auf Probleme
+
+-   ggf. bessere Lösungen für diese Probleme
+
+-   ggf. Vermeidung einer "doppelten" Lösung
+
+## Ausblick
+
+-   Durch Vereine gute erste Ansätze
+
+-   Alternative Möglichkeit: Datensätze auf dem Open Data Portal des Bundes hosten [@OpenDataBund]
+
+-   Thema sollte durch Stadt ernstgenommen werden
