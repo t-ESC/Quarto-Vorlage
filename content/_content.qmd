@@ -53,13 +53,13 @@
 
 ## Unfälle "autonomer" Fahrzeuge
 
--   Unfall im März 2018 zwischen selbstfahrenden Fahrzeug und 49-jähriger Frau in Tempe (Arizona)
+-   Unfall im März 2018 zwischen selbstfahrenden Fahrzeug und 49-jähriger Frau in Tempe (Arizona)   [@Janczura2022Sep]
     -   49-jährige in Dunkelheit vom Wagen getroffen
     -   Frau schob Fahrrad ausßerhalb des Fußweges
     -   wurde ins Krankenhaus gebracht, erlag dort jedoch ihren Verletzungen
--   Fahrzeug wäre nur Ebene 2 gewesen, d.h. Fahrerin hätte eingreifen müssen.
+-   Fahrzeug wäre nur Ebene 2 gewesen, d.h. Fahrerin hätte eingreifen müssen.   [@Janczura2022Sep]
 
--   ähnliche Vorfälle relativ regelmäßig in den letzten Jahren
+-   ähnliche Vorfälle relativ regelmäßig in den letzten Jahren  [@Janczura2022Sep]
 -   Laut Entwicklern 90% menschliches Versagen  [@Janczura2022Sep]
 
 -   ungünstige Benennung des assistierten Fahrmoduses konkret bei Tesla: Autopilot [@teslaAutopilot]
@@ -86,16 +86,24 @@
 
 -   Unvermeidbare Unfälle (Entscheidung des Fahrzeugs)
 
--   Fragen der Privatsphäre
+-   *Fragen der Privatsphäre*
 
--   Sicherheit
+-   *Sicherheit*
 
--   Angemessene Gestaltung der Mensch-Maschine-Schnittstelle
+-   *Angemessene Gestaltung der Mensch-Maschine-Schnittstelle*
 
--   Machinelles Lernen (ML)
+-   *Machinelles Lernen (ML)*
 
 -   Manuelle Übernahme der Steuerung
 
 -   Mögliche ethische Fragen zukünftiger Szenarian (Marktmacht)
 
 [@Bartneck2019-bi, S. 132-138]
+
+## Richard David Precht: Künstliche Intelligenz und der Sinn des Lebens
+
+-   [@Precht2020-sg]
+
+-   sehr einseitige Sicht auf KI-Forschung
+
+-   kritische Strömungen befördert, mit falschen Aussagen begründet [@CiceroPrecht]
